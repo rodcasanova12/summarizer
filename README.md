@@ -1,6 +1,6 @@
-# React + Vite
+# AI Powered Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple website that will get a link as input and will summarize articles or any text that the website has.
 
 Currently, two official plugins are available:
 
